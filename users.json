@@ -1,0 +1,12 @@
+{
+    "user1": {
+        "name": "John",
+        "profession": "developer",
+        "id": 1
+    },
+    "user2": {
+        "name": "Ade",
+        "profession": "manager",
+        "id": 2
+    }
+}
